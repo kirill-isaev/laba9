@@ -1,3 +1,5 @@
+https://travis-ci.org/Alexey01M/lab05.svg?branch=master
+<фрагмент_вставки_значка>
 [![Build Status](https://travis-ci.org/Alexey01M/lab05.svg?branch=master)](https://travis-ci.org/Alexey01M/lab05)
 ## Laboratory work V
 
