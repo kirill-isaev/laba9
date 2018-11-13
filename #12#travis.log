@@ -1,5 +1,5 @@
 Command line:
-"travis lint"
+"travis show"
 
 
    ________                                 __
@@ -26,8 +26,8 @@ Command line:
 
      There is absolutely no warranty on any results obtained from TRAVIS.
 
-  #  Running on ubuntu at Wed Jan 10 20:06:31 2018 (PID 22200).
-  #  Running in /home/alexey/Alexey01M/workspace/projects/lab06
+  #  Running on ubuntu at Fri Jan  5 19:07:53 2018 (PID 6130).
+  #  Running in /home/alexey/Alexey01M/workspace/projects/lab05
   #  Source code version: Nov 07 2015.
   #  Compiled at Nov 17 2015 23:12:21.
   #  Compiler version: 5.2.1 20151028
@@ -42,7 +42,7 @@ Command line:
 
     Loading configuration from /home/alexey/.travis.conf ...
 
-Unknown parameter: "lint".
+Unknown parameter: "show".
 
     List of supported command line options:
 

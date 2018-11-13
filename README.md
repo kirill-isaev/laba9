@@ -1,6 +1,6 @@
-https://travis-ci.org/Alexey01M/lab05.svg?branch=master
+https://travis-ci.org/Alexey01M/lab06.svg?branch=master
 <фрагмент_вставки_значка>
-[![Build Status](https://travis-ci.org/Alexey01M/lab05.svg?branch=master)](https://travis-ci.org/Alexey01M/lab05)
+[![Build Status](https://travis-ci.org/Alexey01M/lab06.svg?branch=master)](https://travis-ci.org/Alexey01M/lab06)
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
@@ -12,7 +12,7 @@ $ open https://travis-ci.org
 ## Tasks
 
 - [X] 1. Авторизоваться на сервисе **Travis CI** с использованием **GitHub** аккаунта
-- [X] 2. Создать публичный репозиторий с названием **lab05** на сервисе **GitHub**
+- [X] 2. Создать публичный репозиторий с названием **lab06** на сервисе **GitHub**
 - [X] 3. Ознакомиться со ссылками учебного материала
 - [X] 4. Включить интеграцию сервиса **Travis CI** с созданным репозиторием
 - [X] 5. Получить токен для **Travis CLI** с правами **repo** и **user**
@@ -44,10 +44,10 @@ $ gem install travis
 ```
 
 ```ShellSession
-$ git clone https://github.com/${GITHUB_USERNAME}/lab04 projects/lab05
-$ cd projects/lab05
+$ git clone https://github.com/${GITHUB_USERNAME}/lab04 projects/lab06
+$ cd projects/lab06
 $ git remote remove origin
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab05
+$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab06
 ```
 
 ```ShellSession
