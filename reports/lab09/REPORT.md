@@ -13,13 +13,13 @@ $ open https://help.github.com/articles/creating-releases/
 - [x] 3. Получить токен для доступа к репозиториям сервиса **GitHub**
 - [x] 4. Сгенерировать GPG ключ и добавить его к аккаунту сервиса **GitHub**
 - [x] 5. Выполнить инструкцию учебного материала
-- [x] 6. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
 $ export GITHUB_TOKEN=SK
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 $ alias gsed=sed # for *-nix system
 ```
 
